@@ -5,3 +5,5 @@ Brandonhare
 zeekyhb@gmail.com
 
 A GUI program which converts a minecraft world into roblox terrain
+
+Download available at http://www.mediafire.com/download/i9743u9p5zmgzwh/MinecraftToRoblox.zip
