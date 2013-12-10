@@ -4,6 +4,7 @@ Last updated: 11/12/13 (d/m/y)
 By brandonhare
 Email: zeekyhb@gmail.com
 Source code: https://github.com/Sir-Tiffy/MinecraftToRoblox
+  (does not contain the required zlib library, get it here http://www.zlib.net/)
 Download: http://www.mediafire.com/download/i9743u9p5zmgzwh/MinecraftToRoblox.zip
 
 This program will convert a minecraft world into a roblox map.
